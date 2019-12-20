@@ -1,7 +1,6 @@
 ## Excel Task Timer
 
-#### Excel / VBA Application for recording time taken to complete tasks. Built in Excel 2010.
-
+#### Excel / VBA Application for recording time taken to complete tasks. 
 <img
   width="500"
   alt=""
