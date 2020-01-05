@@ -7,7 +7,7 @@
   src="https://imgur.com/KLhXgsR.png"
 />
  
-+ Rapidly developed using Excel 2010 (at the request of a colleague)
++ Created using Excel 2010
 + Task times are grouped by day and displayed in a pivot chart
 
 # [Download](https://github.com/janwyl1/excelTaskTimer/raw/master/VBA%20Task%20Timer.xlsm)
